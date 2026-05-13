@@ -1,7 +1,16 @@
 INTRODUCTION 
-
-
+VLSI stands for Very Large Scale Integration.
+It is used to design integrated circuits by combining thousands of transistors into a single chip.
+Digital logic gates are the basic building blocks of VLSI systems.
 
 VLSI DESIGN FLOW
+1. Specification
+2. Design Entry
+3. Functional Simulation
+4. Logic Synthesis
+5. Physical Design
+6. Verification
+7. Fabrication
+
 
 
