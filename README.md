@@ -62,7 +62,7 @@ Carry = A AND B
 ---
 
 ## Screenshots
-
+![screenshot](/IMG-20260513-WA0003.jpg)
 
 
 
