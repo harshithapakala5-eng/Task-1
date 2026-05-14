@@ -61,8 +61,13 @@ Carry = A AND B
 
 ---
 
-## Screenshots
-![screenshot](/IMG-20260513-WA0003.jpg)
+## circuit screenshot 
+
+![circuit](/IMG-20260513-WA0003.jpg)
+
+## Conclusion
+
+This project helped me in understanding the working of basic digital logic gates and the implementation of a Half Adder using Logisim.The outputs were verified with the help of truth table and also helped in understanding the VLSI design concepts.
 
 
 
